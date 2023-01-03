@@ -219,7 +219,8 @@
 
     .circle canvas {
         vertical-align: top;
-        width: 90px !important;
+        width: 80px !important;
+        margin: 5px;
     }
 
     .circle strong {

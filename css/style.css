@@ -400,7 +400,8 @@ canvas{
 
 .circle canvas {
     vertical-align: top;
-    width: 120px !important;
+    width: 100px !important;
+    margin-left: 10px;
 }
 
 .circle strong {
